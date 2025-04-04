@@ -18,14 +18,8 @@ This project is a high-performance **C++ implementation** for real-time object d
 
 ## Output
 
-Below are examples of the output for both image and video inference:
-
 <div align="center">
-  <h3>Image Output</h3>
   <img src="asset/frame_0.jpg" alt="Image Output" width="500">
-  
-  <h3>Video Output</h3>
-  <img src="asset/outputt_crop_highquality.gif" alt="Video Output as GIF" width="500">
 </div>
 
 
